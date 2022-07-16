@@ -1,425 +1,184 @@
-{
-  "creds": {
-    "noiseKey": {
-      "private": {
-        "type": "Buffer",
-        "data": "2EDx8y3SExk3D2BtTCtKfyIYub1FQvwbWGIxOZU5aEk="
-      },
-      "public": {
-        "type": "Buffer",
-        "data": "MSOfN+ZKeqCY62shkXuPX8iT3H9GQd4CmYvrFV+9G04="
-      }
-    },
-    "signedIdentityKey": {
-      "private": {
-        "type": "Buffer",
-        "data": "YNsjyQrIZ14rv0BjsV0Dgddes8koK4VubvgIG8qiAHc="
-      },
-      "public": {
-        "type": "Buffer",
-        "data": "k7r05pnu94HO8U073pZAS+e6jZQZz246YT/PdIKROzw="
-      }
-    },
-    "signedPreKey": {
-      "keyPair": {
-        "private": {
-          "type": "Buffer",
-          "data": "4BP0kC1w7GM6efjXMAlRGgauza52QkiyKUtIcDAR5lg="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "AryYlwPnIEK5/3dPYR2nt68MxoB7IOlNQWOhAC3HxWc="
-        }
-      },
-      "signature": {
-        "type": "Buffer",
-        "data": "3BWem4yIZ6bv8c1GToO7KEFdNC8sggPCt4VCviyrpXkPhEaRJZq72Vq40i11UIRYjKHnL8hOmnHdYzWJbpuhiw=="
-      },
-      "keyId": 1
-    },
-    "registrationId": 200,
-    "advSecretKey": "1nr9rRxYaYAWOGISBMxKTvAKRElo6dziL51QiD14LMw=",
-    "nextPreKeyId": 31,
-    "firstUnuploadedPreKeyId": 31,
-    "serverHasPreKeys": true,
-    "account": {
-      "details": "CJetu58DEN6Tk5YGGAE=",
-      "accountSignatureKey": "x7YotL4tuh0fhXEWMhmTSmDvR4u9ACLIYIqbsCID2ns=",
-      "accountSignature": "TjS/IHUqJeYPEoxj9QrY5INKbaNngeKgjHGI5vYxbRlsGH4QYb829LR+dAkkYfYNVRjl4p/i0mlUvVh/C9NBDQ==",
-      "deviceSignature": "LjKd6Cd4+aL4dnPbyt3iIjFAMLsO/LIm1a/Itf+m3w5PfWN6FQggA6Ju3XEcFgnpH4J1H7ptCj9GOPCQ73u3hQ=="
-    },
-    "me": {
-      "id": "6283869803330:12@s.whatsapp.net",
-      "verifiedName": "",
-      "name": "i"
-    },
-    "signalIdentities": [
-      {
-        "identifier": {
-          "name": "6283869803330:12@s.whatsapp.net",
-          "deviceId": 0
-        },
-        "identifierKey": {
-          "type": "Buffer",
-          "data": "Bce2KLS+LbodH4VxFjIZk0pg70eLvQAiyGCKm7AiA9p7"
-        }
-      }
-    ],
-    "lastAccountSyncTimestamp": 1657063905,
-    "myAppStateKeyId": "AAAAAAh+"
-  },
-  "keys": {
-    "preKeys": {
-      "1": {
-        "private": {
-          "type": "Buffer",
-          "data": "SFepeZo48RLMlEFQGRenvbMTjxSj+gqI9cN/QFT741s="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "NOXBP5+2y7K9odbG7+aFH3eDbtghJzFuw++vDalEwH8="
-        }
-      },
-      "2": {
-        "private": {
-          "type": "Buffer",
-          "data": "4CKcVAMlNlQFlcY3s0UvbOuOLbWEfqSHrxfOfTGS/3I="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "7nUGXd/mGhGSxXnM7RbMoIn6sFVkqK54A7PpwlTEEWs="
-        }
-      },
-      "3": {
-        "private": {
-          "type": "Buffer",
-          "data": "QJDNYCTuZ2RXMGpjzI1hbMahbz/fo2M9sX9cjUsIKEo="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "YOAnw9wl23I2NzxlmoAEhQovQH4yS9onjKJu5d6sLi0="
-        }
-      },
-      "4": {
-        "private": {
-          "type": "Buffer",
-          "data": "oDuCr09MDkPhQWe1+MKz6ZDqZGhWktS6VExlgBDoV0g="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "XxxzPCvMvOfovB31W8mBcnOdailCq2I+mhyXtfUGNS0="
-        }
-      },
-      "5": {
-        "private": {
-          "type": "Buffer",
-          "data": "wIf3vfIW4JZAw6XTL5Au/IDwU+n5vy0UMYxmz/6PpEc="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "x4uwRYcW0u7srdwbWlK0id+2Qmzc2kJxhkPw1iIZEH0="
-        }
-      },
-      "6": {
-        "private": {
-          "type": "Buffer",
-          "data": "sC4ZitfG4ODQYNz50s1xud2jWHu2q2AWof05SMJi30A="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "lzN43uEmol8KeshAIioU5+mNNavJaJk0w/zT4lVYvU0="
-        }
-      },
-      "7": {
-        "private": {
-          "type": "Buffer",
-          "data": "oOpaMpSOdl8eBzvU7OMof4+vAuy4zekhgQpmZsdvRnc="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "yP4/HBzIaStTW4GZ/yFmaQ2CJi5rMNBf76z0nZVuOT0="
-        }
-      },
-      "8": {
-        "private": {
-          "type": "Buffer",
-          "data": "ECwl2tfm1bo9QAbZDBmA5B1skPLnADpT2fFGVLM5/2k="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "ngpWHbietoi+G79aVMghzhLbjxMESSAJEjXf1mFn/Fk="
-        }
-      },
-      "9": {
-        "private": {
-          "type": "Buffer",
-          "data": "aMpw/lNEVcQb0dwcgv+1HL9AXezJcCwqmGUtSJaStlY="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "L2fHhu1GoQJ/Q70khnlttuWbyCrQEsO3aMldSB1UyVg="
-        }
-      },
-      "10": {
-        "private": {
-          "type": "Buffer",
-          "data": "GLvbzEyunqeexVPORdKLQLXRXAbK4MUvYT3/MuCGFkc="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "cm6Pj7jg8rqLN7DIGNU/CpHXgxOhBEDJeD0kHisxJlk="
-        }
-      },
-      "11": {
-        "private": {
-          "type": "Buffer",
-          "data": "2Lf3EmEtOAVCAjIJMDQwkoxwp5SU7+55JgHPi06eIGo="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "L/n4OsPCW1EeNJ2QQ95t21Py1XUKWzu3BttQUOtVbBk="
-        }
-      },
-      "12": {
-        "private": {
-          "type": "Buffer",
-          "data": "oGci3c0ABLMgH4xU/XjqCZ/Z2cgBcUlARWMn5PvfgH0="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "Mtk//TJjBmwZpn31Yv+XR5D0Ol/gFNHNeGV0O6PRdCY="
-        }
-      },
-      "13": {
-        "private": {
-          "type": "Buffer",
-          "data": "gMYUHxzVpypQ0oAyLMoUkLMrOB15z/Yc9a7Z614J2Vo="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "M241WChe2YmorSMbTEN0/LIqwO2T/JHVaCz/NvRhT2Q="
-        }
-      },
-      "14": {
-        "private": {
-          "type": "Buffer",
-          "data": "sIEGR/23S042h9xEK1JNYVg1/FO/qlCE9X180zsSMVU="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "vIqDPT4JQDTfpGiqmHz4JbUcQ7UnTsziZbNky8o8GVE="
-        }
-      },
-      "15": {
-        "private": {
-          "type": "Buffer",
-          "data": "2HAIwHeUzMRKGya87E9rO7ZjAvJfoa5ndsw2Hb45K3Y="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "67Ei9dVp8mDXjJl/2r0rVDgDM0dE0AjSs+By1K3xfQQ="
-        }
-      },
-      "16": {
-        "private": {
-          "type": "Buffer",
-          "data": "0LJJbSFIFE6O9XkGmInriOQQK3zyspakbydZOxPrIFI="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "42SYPAFiaw0JsSDXpNa0KxcSO06QIJ/uH0Iqbf7kSSo="
-        }
-      },
-      "17": {
-        "private": {
-          "type": "Buffer",
-          "data": "8OgHa2npRg0H7i1IsLKhaO8N371Zcg6NGL4WYXgXvkM="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "pDqUHqntIkNqqrBJS3JPR85PgVZdnAhpYNXmYfpwrVA="
-        }
-      },
-      "18": {
-        "private": {
-          "type": "Buffer",
-          "data": "gF6lZBxAyZQTYGctRGuclEf4LA6GzB01GkKEUpr3kU0="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "ls+5DTYMsPTXcYoeYvxkUAx93TCErxCtCbAvJY8+Ai4="
-        }
-      },
-      "19": {
-        "private": {
-          "type": "Buffer",
-          "data": "ONWdNQPtUiFqYN/KaxHcDGm2EvKYxXiASmbQMcQUEUc="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "QDWTHpQ8T/ubYH7F30XryIJgZtq8K5xTMbai8Gtez2g="
-        }
-      },
-      "20": null,
-      "21": {
-        "private": {
-          "type": "Buffer",
-          "data": "GJEj8rd1vhnPQGqbWFI7oKCMExMwrRc7BC/p2RrzsGU="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "6tIrf6EtZdSmZYjCNeNEp4y5IGjM915JhRsNctzRKiU="
-        }
-      },
-      "22": {
-        "private": {
-          "type": "Buffer",
-          "data": "IIuTvOvc12FycFeGYvTbETbqrTnlYwQ9pC6XeKjnGHs="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "KtKKMudH/Zfka5fHv63fYKgQ4pmSWNV9hAGkgERJXS8="
-        }
-      },
-      "23": {
-        "private": {
-          "type": "Buffer",
-          "data": "sBk0iyGkg0EeSl9qrSO12d9Vm5xsaLh5YBkJaxJ/nUI="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "jl9agrcoVp4oNI2womp5BAFWswryySOPADaACuDrdlk="
-        }
-      },
-      "24": {
-        "private": {
-          "type": "Buffer",
-          "data": "WM7NxOrceYgxXs73doxZjGnxxs1PC/NliM1iGWugXlk="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "hZXAnyH3J2MHTNWfY9BJQOoyK4jVS7wquBRJU/P4V2w="
-        }
-      },
-      "25": {
-        "private": {
-          "type": "Buffer",
-          "data": "UJs5TGuQyKvVsALg9WXjSlpvB6kN36Y2Df/CXW68lHk="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "YX85IIMacH8YR4tELFHsobwkDOvlwXf2lwObdyli+gg="
-        }
-      },
-      "26": {
-        "private": {
-          "type": "Buffer",
-          "data": "kD1+PFN2VrSg7rPH7Q+YBzE62haErVFGgwJG8TTzRGE="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "thNxHhkomUKFDu3cHye1ppDLkPOht0OjwYGMVUdGACU="
-        }
-      },
-      "27": {
-        "private": {
-          "type": "Buffer",
-          "data": "uGT1Rcn0ETvq1Y9pyffN7W0WNLicF3CcpQOe1mFw0ks="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "PPPRFUSlqnqB6UjcYkd+Wx2pF/IH/Re/XvsaR52jLmc="
-        }
-      },
-      "28": {
-        "private": {
-          "type": "Buffer",
-          "data": "2N1fQ7hJnYxhBnE5uYSJeZdO6NQb3u92+zQTOlrYdmY="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "3ObGg7r8Mr29tJhQRIbh7PHGtDWfzxTZrrsc/Pwt00M="
-        }
-      },
-      "29": {
-        "private": {
-          "type": "Buffer",
-          "data": "sPY48nw50Qu0dV65GCqwaYPKayAYo4UegAE0xuVm0Xo="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "NZ1tscslWmrms6Duh4JcDckhub8KJUQp1UMwiXzRLAw="
-        }
-      },
-      "30": {
-        "private": {
-          "type": "Buffer",
-          "data": "CCK11vHK5dQLe3buiHgM1M/COk5ck8yP3/68mS0NoHc="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "/kUTTj5yRAJkzfs3JRbsy6UfA2tRJ310Qg5ud5Y4ci0="
-        }
-      }
-    },
-    "sessions": {
-      "6283869803330.0": {
-        "_sessions": {
-          "BWAuOaEyxTdYHKz/ZD8hBN2RCb3Kn9ChnOiE1DSsELU8": {
-            "registrationId": 2077023971,
-            "currentRatchet": {
-              "ephemeralKeyPair": {
-                "pubKey": "Be2quna44Vfp37LYXAnFL2NWy+1dIUHePeprrtealRtd",
-                "privKey": "kDN+AU+sgaRPf7Pr2r+FLsAelxk+R/4slonYKeDDvWY="
-              },
-              "lastRemoteEphemeralKey": "BVsmnFo9VS+shEfuAThC4M0dh2/1QWqDpMuA4YFfRKtj",
-              "previousCounter": 0,
-              "rootKey": "dbiY6k5NhQRFzYBfNhXdluND3c1xuo2mitR7/Paq0/w="
-            },
-            "indexInfo": {
-              "baseKey": "BWAuOaEyxTdYHKz/ZD8hBN2RCb3Kn9ChnOiE1DSsELU8",
-              "baseKeyType": 2,
-              "closed": -1,
-              "used": 1657063907460,
-              "created": 1657063907460,
-              "remoteIdentityKey": "Bce2KLS+LbodH4VxFjIZk0pg70eLvQAiyGCKm7AiA9p7"
-            },
-            "_chains": {
-              "BVsmnFo9VS+shEfuAThC4M0dh2/1QWqDpMuA4YFfRKtj": {
-                "chainKey": {
-                  "counter": 4,
-                  "key": "KRiij6MRgppIBu0Ji+FxvmEKP2Ya7HwgSTKi+b9/Jzg="
-                },
-                "chainType": 2,
-                "messageKeys": {}
-              },
-              "Be2quna44Vfp37LYXAnFL2NWy+1dIUHePeprrtealRtd": {
-                "chainKey": {
-                  "counter": -1,
-                  "key": "AyMyodmtrET4fEAMvy1+MFR1KefPMyhCsuqxOSXITys="
-                },
-                "chainType": 1,
-                "messageKeys": {}
-              }
-            }
-          }
-        },
-        "version": "v1"
-      }
-    },
-    "appStateSyncKeys": {
-      "AAAAAAh+": {
-        "keyData": "C9OPJa66ljz8P6/nEY+6oNsLSjiFOlFfQ/zOiEmlsi4=",
-        "fingerprint": {
-          "rawId": 871290519,
-          "currentIndex": 1,
-          "deviceIndexes": [
-            0,
-            1
-          ]
-        },
-        "timestamp": "1657063908012"
-      }
+import chalk from 'chalk'
+import { fileURLToPath } from 'url'
+import { watchFile, unwatchFile } from 'fs'
+import moment from 'moment-timezone'
+
+global.owner = [
+  ['+62 857-0673-5450'],
+  ['+62 857-0673-5450'],
+  ['+62 857-0673-5450'],
+  ['+62 857-0673-5450'],
+  ['+62 857-0673-5450'],
+  ['+62 857-0673-5450', 'Verdihatourou kalo chat cewe aja gpp😬', true],
+  // [number, dia creator/owner?, dia developer?]
+] // Put your number here
+global.mods = [] // Want some help?
+global.prems = [] // Premium user has unlimited limit
+global.lolkey = 'YourApikey'
+global.xkey = 'YourApikey'
+global.APIs = { // API Prefix
+  // name: 'https://website'
+  lolhuman: 'https://api.lolhuman.xyz',
+  nrtm: 'https://nurutomo.herokuapp.com',
+  bg: 'http://bochil.ddns.net',
+  xteam: 'https://api.xteam.xyz',
+  zahir: 'https://zahirr-web.herokuapp.com',
+  zeks: 'https://api.zeks.xyz',
+  pencarikode: 'https://pencarikode.xyz',
+  LeysCoder: 'https://leyscoders-api.herokuapp.com',
+  violetics: 'https://violetics.pw',
+  hadi: 'http://hadi-api.herokuapp.com'
+}
+global.APIKeys = { // APIKey Here
+  // 'https://website': 'apikey'
+  'https://api.xteam.xyz': 'YourApikey',
+  'https://zahirr-web.herokuapp.com': 'zahirgans',
+  'https://api.zeks.me': 'apivinz',
+  'https://pencarikode.xyz': 'pais',
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
+  'https://violetics.pw': 'beta'
+}
+global.wm = '                「 Xziro-MD あ⁩ 」' //Main Watermark
+
+global.wm2 = '꒷꒷ ‧₊˚ ꒰ฅ˘ XziroID - вσт˘ฅ ꒱ ‧₊˚꒷꒷'
+
+global.wm3 = '⫹⫺ XziroBotz'
+
+global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
+
+global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
+
+global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
+`
+
+global.author = '                「 XziroBotz あ⁩ 」'
+
+global.thumbnailUrl = [
+  'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
+  'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
+  'https://telegra.ph/file/7d6c0e35f9c8f52715541.jpg', 'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
+  'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
+  'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
+]
+global.flaaa = [
+  'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
+  'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
+  'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=',
+  'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=',
+  'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
+ ]
+global.sgc = 'https://chat.whatsapp.com/6'
+global.sig = 'https://instagram.com/'
+//========Url Template Buttons=========//
+global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
+global.urlnya = "https://www.instagram.com/"
+
+//============= callButtons =============//
+global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
+global.phn = '+62 857-0673-5450'
+//Ini cuma simpenan owner kanna kok :v
+global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://telegra.ph/file/05c1b22ee83bcd7723b4d.jpg','https://telegra.ph/file/1d886f66a44871205335f.jpg','https://telegra.ph/file/54d19a9094dc509370bf9.jpg','https://telegra.ph/file/e649475bcde78a9977ee5.jpg','https://telegra.ph/file/32ba20b6139b129c559c8.jpg','https://telegra.ph/file/948434cda49e4af5d9f11.jpg','https://telegra.ph/file/6f353c68533283fe79871.jpg','https://telegra.ph/file/de268ca9b01101acf2b8a.jpg','https://telegra.ph/file/fc6c5b2ae9a20c4256e7f.jpg', 'https://telegra.ph/file/efb70bb0988640f841742.jpg', 'https://telegra.ph/file/77d03fff530a2bcff3bf7.jpg','https://telegra.ph/file/6e4623464a659dd8d902b.jpg','https://telegra.ph/file/685aa39f0cb0f2c4fd85b.jpg','https://telegra.ph/file/10454b9ad693e1eefea58.jpg','https://telegra.ph/file/7de8ce5c290c3d8be0856.jpg','https://telegra.ph/file/8d7c4eadb7a4722747074.jpg','https://telegra.ph/file/ccc5f8eaac0f30919ef6c.jpg','https://telegra.ph/file/95f4b43439d7888f15ea5.jpg','https://telegra.ph/file/9c2a750db555bd2fad1f3.jpg', 'https://telegra.ph/file/efc5f7e637744fd6bfec2.jpg','https://telegra.ph/file/3a5231aade245665633bd.jpg','https://telegra.ph/file/2ecfc76feb26ec1eab99b.jpg','https://telegra.ph/file/dabb70983b4e833d98344.jpg','https://telegra.ph/file/75193a893e38fc580afe6.jpg','https://telegra.ph/file/217aa0f4ec76273808aa4.jpg','https://telegra.ph/file/8a35d3446b97ae22c7b23.jpg','https://telegra.ph/file/092df720701575a7ceaaa.jpg','https://telegra.ph/file/a65184a676cd648de34c3.jpg','https://telegra.ph/file/2f5b23c84765b1c6c1944.jpg','https://telegra.ph/file/b6782b595b7c86e49ad7e.jpg',
+'https://telegra.ph/file/180e28807e78419d45537.jpg','https://telegra.ph/file/140eff27be983e0cd6781.jpg','https://telegra.ph/file/1581b791e16d0029e16b5.jpg','https://telegra.ph/file/6a4b36372b4f265bae3bc.jpg','https://telegra.ph/file/093caff422f194f00bc6c.jpg','https://telegra.ph/file/2294b7ab49eca8a8046b2.jpg','https://telegra.ph/file/869224d1c417e8b5c8ff1.jpg','https://telegra.ph/file/a78443f0ee887f46808d7.jpg','https://telegra.ph/file/1889878933264d16c58bf.jpg','https://telegra.ph/file/735aeb47d9c4aa87aaaf3.jpg','https://telegra.ph/file/fcf861516db09dda164e0.jpg','https://telegra.ph/file/355d96d7e06d109435f67.jpg']
+global.hwaifu = ['https://telegra.ph/file/a3bd959e8cf3131be2213.jpg']
+global.hyuri = ['https://telegra.ph/file/5d908f4a17515a15c6202.jpg']
+global.hLokun = ['https://telegra.ph/file/8902f4fc550727a62e99f.jpg','https://telegra.ph/file/6a6a40e924c16a8f0de03.jpg', 'https://telegra.ph/file/b035d3038a0b124f1d846.jpg', 'https://telegra.ph/file/9d475f7852bf6f6193c80.jpg']
+global.hloli = ['https://telegra.ph/file/872c360a7104d86752650.jpg', 'https://telegra.ph/file/f6bbb53620374257bfa51.jpg','https://telegra.ph/file/9b76375f3869440818d57.jpg','https://telegra.ph/file/a78443f0ee887f46808d7.jpg']
+global.hneko = ['https://telegra.ph/file/805a37b1e9a963e7d7ecf.jpg', 'https://telegra.ph/file/f9c4d97477b647cf57a2b.jpg','https://telegra.ph/file/b6905b77e6c7732592a13.jpg', 'https://telegra.ph/file/9f82c432d0ba4cfffda9a.png', 'https://telegra.ph/file/484083949d4bfd763b8cf.jpg']
+global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://telegra.ph/file/ae610571b62b5ab876e9c.jpg', 'https://telegra.ph/file/cc8255d5b989eef587af2.jpg','https://telegra.ph/file/30d2e7375996abd9cfee3.jpg', 'https://telegra.ph/file/78980c90c44a95a1d30fa.jpg', 'https://telegra.ph/file/2ac5d8ccf23e73eaa5bfa.jpg']
+global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
+global.bg = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://telegra.ph/file/ae610571b62b5ab876e9c.jpg', 'https://telegra.ph/file/cc8255d5b989eef587af2.jpg','https://telegra.ph/file/30d2e7375996abd9cfee3.jpg']
+global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+/*============== NOMOR ==============*/
+global.nomorbot = '-'
+global.nomorown = '6285706735450'
+global.namebot = 'XziroBotz'
+global.nameown = 'Verdi.xyz'
+
+/*=========== FAKE SIZE ===========*/
+global.fsizedoc = '99999999' // default 10TB
+global.fpagedoc = '999'
+
+/*=========== HIASAN ===========*/
+// DEFAULT MENU
+global.dmenut = '❏═┅═━–〈' //top
+global.dmenub = '┊›' //body
+global.dmenub2 = '┊' //body for info cmd on Default menu
+global.dmenuf = '┗––––––––––✦' //footer
+
+// COMMAND MENU
+global.dashmenu = '┅━━━━━═┅═❏ *DASHBOARD* ❏═┅═━━━━━┅'
+global.cmenut = '❏––––––『' //top
+global.cmenuh = '』––––––' //header
+global.cmenub = '┊々 ' //body
+global.cmenuf = '┗━═┅═━––––––๑\n' //footer
+global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
+global.pmenus = '✦' //pembatas menu selector
+
+global.htki = '––––––『' //hiasan title kiri
+global.htka = '』––––––' //hiasan title kanan
+global.lopr = 'Ⓟ'
+global.lolm = 'Ⓛ'
+global.htjava = '⫹⫺' //hiasan Doang :v
+global.hsquere = '⛶', '❏', '⫹⫺'
+global.l = '「'
+global.r = '」'
+// Sticker WM
+global.packname = ''
+global.author = ''
+
+global.multiplier = 69 // The higher, The harder levelup
+
+global.rpg = {
+  emoticon(string) {
+    string = string.toLowerCase()
+    let emot = {
+      bibitanggur: '🍇',
+      bibitpisang: '🍌',
+      bibitjeruk: '🍊',
+      bibitapel: '🍎',
+      bibitmangga: '🥭',
+      level: '📊',
+      limit: '🎫',
+      health: '❤️',
+      exp: '✨',
+      money: '💹',
+      bank: '🏦',
+      potion: '🥤',
+      diamond: '💎',
+      common: '📦',
+      uncommon: '🛍️',
+      mythic: '🎁',
+      legendary: '🗃️',
+      superior: '💼',
+      pet: '🔖',
+      trash: '🗑',
+      armor: '🥼',
+      sword: '⚔️',
+      pickaxe: '⛏️',
+      fishingrod: '🎣',
+      wood: '🪵',
+      rock: '🪨',
+      string: '🕸️',
+      horse: '🐴',
+      cat: '🐱',
+      dog: '🐶',
+      fox: '🦊',
+      petFood: '🍖',
+      iron: '⛓️',
+      gold: '🪙',
+      emerald: '❇️',
+      upgrader: '🧰'
+      
     }
+    let results = Object.keys(emot).map(v => [v, new RegExp(v, 'gi')]).filter(v => v[1].test(string))
+    if (!results.length) return ''
+    else return emot[results[0][0]]
   }
 }
+
+let file = fileURLToPath(import.meta.url)
+watchFile(file, () => {
+  unwatchFile(file)
+  console.log(chalk.redBright("Update 'config.js'"))
+  import(`${file}?update=${Date.now()}`)
+})
